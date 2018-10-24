@@ -1,0 +1,26 @@
+{
+  "name": "work-in-progress-server",
+  "version": "0.1.0",
+  "description": "an express server that can be used as a placeholder to display work in progress page while working on finishing the final product. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrwanashraf/work-in-progress-server.git"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "Mrwan Ashraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrwanashraf/work-in-progress-server/issues"
+  },
+  "homepage": "https://github.com/mrwanashraf/work-in-progress-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
